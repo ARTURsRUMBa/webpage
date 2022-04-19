@@ -2,9 +2,9 @@
 <hatml>
 <body>
 
- <h1>Mana pirmā lapa</h1>
- <h2>mes esam gudri</h2>
- <p>Mans pirmais teksts</p>
+  <h1 style=color:red;>Mana pirmā lapa</h1>
+  <h2>mes esam gudri</h2>
+  <p>Mans pirmais teksts</p>
 
-</body>
-</ntml>
+ </body>
+ </ntml>
