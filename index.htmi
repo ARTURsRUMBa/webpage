@@ -2,11 +2,11 @@
 <hatml>
 <body>
 
-<h1 style="color:red;">Mana pirmā lapa</h1>
-<h2 style="background-color:blue">mes esam gudri</h2>
-<h3 style="text-align:center">Šodien turpinam</h3>
-<h4 style="border:2px solid Tomato;">Un klustam gudraki</h4>
-<p style="color:#9D2235;">Mans pirmais teksts</p>
+ <h1 style="color:red;">Mana pirmā lapa</h1>
+ <h2 style="background-color:blue">mes esam gudri</h2>
+ <h3 style="text-align:center">Šodien turpinam</h3>
+ <h4 style="border:2px solid Tomato;">Un klustam gudraki</h4>
+ <p style="color:#9D2235;">Mans pirmais teksts</p>
 
 </body>
 </ntml>
