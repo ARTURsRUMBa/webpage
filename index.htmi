@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<hatml>
+<html>
 <body>
 
  <h1 style="color:red;">Mana pirmā lapa</h1>
@@ -9,4 +9,4 @@
  <p style="color:#9D2235;">Mans pirmais teksts</p>
 
 </body>
-</ntml>
+</html>
